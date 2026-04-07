@@ -708,6 +708,13 @@ def main() -> None:
     num_labels = len(id2label)
 
     device = torch.device(args.device)
+    if device.type == "cuda" and not torch.cuda.is_available():
+        raise SystemExit(
+            "Requested --device cuda, but this PyTorch build has no CUDA (CPU-only wheel).\n"
+            "  Fix now: rerun with --device cpu\n"
+            "  Fix GPU: install a CUDA-enabled torch from https://pytorch.org/get-started/locally/ "
+            "into this venv, then use --device cuda."
+        )
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
     model = RelationTransformer(args.model_name, num_labels)
 

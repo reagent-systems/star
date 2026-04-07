@@ -1,0 +1,7935 @@
+{
+  "facts": [
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "Rain"
+      },
+      {
+        "sym": "cancellation"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "clustering"
+      },
+      {
+        "sym": "clusters"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "fatigue"
+      },
+      {
+        "sym": "pain"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "microbes"
+      },
+      {
+        "sym": "sickness"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "murders"
+      },
+      {
+        "sym": "conviction"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "response"
+      },
+      {
+        "sym": "ripple"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "subject"
+      },
+      {
+        "sym": "implication"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "vibrations"
+      },
+      {
+        "sym": "movement"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e1,e2)"
+      },
+      {
+        "sym": "viruses"
+      },
+      {
+        "sym": "infections"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "Roundworms"
+      },
+      {
+        "sym": "parasite"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "blisters"
+      },
+      {
+        "sym": "herpes_simplex_virus"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "diseases"
+      },
+      {
+        "sym": "gene_mutations"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "influenza"
+      },
+      {
+        "sym": "virus"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "joy"
+      },
+      {
+        "sym": "laughing"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "pollution"
+      },
+      {
+        "sym": "cars"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "slide"
+      },
+      {
+        "sym": "crew"
+      }
+    ],
+    [
+      {
+        "sym": "Cause-Effect(e2,e1)"
+      },
+      {
+        "sym": "spills"
+      },
+      {
+        "sym": "hurricane"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "back"
+      },
+      {
+        "sym": "chair"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "bar"
+      },
+      {
+        "sym": "seats"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "claw"
+      },
+      {
+        "sym": "hammer"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "drawer"
+      },
+      {
+        "sym": "coffeemaker"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "ear"
+      },
+      {
+        "sym": "elephant"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "forebrain"
+      },
+      {
+        "sym": "amphibians"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "luff"
+      },
+      {
+        "sym": "sail"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "plug"
+      },
+      {
+        "sym": "battery_box"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "room"
+      },
+      {
+        "sym": "house"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "steps"
+      },
+      {
+        "sym": "stairs"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e1,e2)"
+      },
+      {
+        "sym": "swim_bladder"
+      },
+      {
+        "sym": "animals"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "cat"
+      },
+      {
+        "sym": "paw"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "circuit"
+      },
+      {
+        "sym": "converter"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "door"
+      },
+      {
+        "sym": "lock"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "statue"
+      },
+      {
+        "sym": "head"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "telescope"
+      },
+      {
+        "sym": "lenses"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "tree"
+      },
+      {
+        "sym": "crown"
+      }
+    ],
+    [
+      {
+        "sym": "Component-Whole(e2,e1)"
+      },
+      {
+        "sym": "website"
+      },
+      {
+        "sym": "articles"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "bomb"
+      },
+      {
+        "sym": "suitcase"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "boots"
+      },
+      {
+        "sym": "box"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "bottle"
+      },
+      {
+        "sym": "container"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "camera"
+      },
+      {
+        "sym": "leaflet_box"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "cat"
+      },
+      {
+        "sym": "trap"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "coins"
+      },
+      {
+        "sym": "plastic_case"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "laptop"
+      },
+      {
+        "sym": "plastic_bag"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e1,e2)"
+      },
+      {
+        "sym": "pollen"
+      },
+      {
+        "sym": "basket"
+      }
+    ],
+    [
+      {
+        "sym": "Content-Container(e2,e1)"
+      },
+      {
+        "sym": "room"
+      },
+      {
+        "sym": "canvases"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "Molten_core"
+      },
+      {
+        "sym": "river"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "acid"
+      },
+      {
+        "sym": "eyes"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "actress"
+      },
+      {
+        "sym": "airport"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "ale"
+      },
+      {
+        "sym": "mug"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "attributes"
+      },
+      {
+        "sym": "children"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "body"
+      },
+      {
+        "sym": "reservoir"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "clock"
+      },
+      {
+        "sym": "presentations"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "dollars"
+      },
+      {
+        "sym": "trusts"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "man"
+      },
+      {
+        "sym": "car"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "man"
+      },
+      {
+        "sym": "countries"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "names"
+      },
+      {
+        "sym": "space"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "oil"
+      },
+      {
+        "sym": "ocean"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "opinions"
+      },
+      {
+        "sym": "blog"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "potatoes"
+      },
+      {
+        "sym": "basket"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "pulp"
+      },
+      {
+        "sym": "tupperware_tub"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "rebound"
+      },
+      {
+        "sym": "net"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "song"
+      },
+      {
+        "sym": "contest"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "survivors"
+      },
+      {
+        "sym": "houses"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Destination(e1,e2)"
+      },
+      {
+        "sym": "tube"
+      },
+      {
+        "sym": "container"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "bazooka"
+      },
+      {
+        "sym": "game"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "coloring"
+      },
+      {
+        "sym": "coat_of_arms"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "cultures"
+      },
+      {
+        "sym": "epochs"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "data"
+      },
+      {
+        "sym": "epochs"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "defendant"
+      },
+      {
+        "sym": "custody"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "floppies"
+      },
+      {
+        "sym": "factory"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "gift"
+      },
+      {
+        "sym": "friend"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "high-wheelers"
+      },
+      {
+        "sym": "push-bike"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "inspector"
+      },
+      {
+        "sym": "yard"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "lithics"
+      },
+      {
+        "sym": "mountain_ranges"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "model"
+      },
+      {
+        "sym": "example"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "monkeys"
+      },
+      {
+        "sym": "enclosure"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "name"
+      },
+      {
+        "sym": "address"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "offenders"
+      },
+      {
+        "sym": "officers"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "parents"
+      },
+      {
+        "sym": "station"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "samples"
+      },
+      {
+        "sym": "milking"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "talent"
+      },
+      {
+        "sym": "village"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "wine"
+      },
+      {
+        "sym": "grapes"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e1,e2)"
+      },
+      {
+        "sym": "young"
+      },
+      {
+        "sym": "nest"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e2,e1)"
+      },
+      {
+        "sym": "Red_grape"
+      },
+      {
+        "sym": "wine"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e2,e1)"
+      },
+      {
+        "sym": "cherry"
+      },
+      {
+        "sym": "wine"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e2,e1)"
+      },
+      {
+        "sym": "papaya"
+      },
+      {
+        "sym": "nectar"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e2,e1)"
+      },
+      {
+        "sym": "rice"
+      },
+      {
+        "sym": "flour"
+      }
+    ],
+    [
+      {
+        "sym": "Entity-Origin(e2,e1)"
+      },
+      {
+        "sym": "sesame"
+      },
+      {
+        "sym": "oil"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "Analysts"
+      },
+      {
+        "sym": "frequency"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "Carpenters"
+      },
+      {
+        "sym": "wood"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "Hospitals"
+      },
+      {
+        "sym": "apparatus"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "analyzer"
+      },
+      {
+        "sym": "method"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "cartomancers"
+      },
+      {
+        "sym": "cards"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "crew"
+      },
+      {
+        "sym": "breast"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "father"
+      },
+      {
+        "sym": "bar"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "guy"
+      },
+      {
+        "sym": "car"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "master"
+      },
+      {
+        "sym": "stick"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "method"
+      },
+      {
+        "sym": "combination"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "nurse"
+      },
+      {
+        "sym": "arm"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "station"
+      },
+      {
+        "sym": "device"
+      }
+    ],
+    [
+      {
+        "sym": "Instrument-Agency(e2,e1)"
+      },
+      {
+        "sym": "witch"
+      },
+      {
+        "sym": "magic"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e1,e2)"
+      },
+      {
+        "sym": "captain"
+      },
+      {
+        "sym": "crew"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e1,e2)"
+      },
+      {
+        "sym": "committee"
+      },
+      {
+        "sym": "organisation"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e1,e2)"
+      },
+      {
+        "sym": "keeper"
+      },
+      {
+        "sym": "team"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e1,e2)"
+      },
+      {
+        "sym": "president"
+      },
+      {
+        "sym": "university"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "camp"
+      },
+      {
+        "sym": "champions"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "circle"
+      },
+      {
+        "sym": "hooligans"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "coalition"
+      },
+      {
+        "sym": "interests"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "coffle"
+      },
+      {
+        "sym": "asses"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "convocation"
+      },
+      {
+        "sym": "scholars"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "corps"
+      },
+      {
+        "sym": "cadets"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "gulp"
+      },
+      {
+        "sym": "magpies"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "hookup"
+      },
+      {
+        "sym": "users"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "litter"
+      },
+      {
+        "sym": "rabbits"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "mischief"
+      },
+      {
+        "sym": "rats"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "pod"
+      },
+      {
+        "sym": "whales"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "squad"
+      },
+      {
+        "sym": "beaters"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "squad"
+      },
+      {
+        "sym": "militants"
+      }
+    ],
+    [
+      {
+        "sym": "Member-Collection(e2,e1)"
+      },
+      {
+        "sym": "zoo"
+      },
+      {
+        "sym": "beasts"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "News_programs"
+      },
+      {
+        "sym": "violence"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "article"
+      },
+      {
+        "sym": "use"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "audits"
+      },
+      {
+        "sym": "waste"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "book"
+      },
+      {
+        "sym": "beauty"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "cable_network"
+      },
+      {
+        "sym": "science_fiction_TV_shows"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "chapter"
+      },
+      {
+        "sym": "importance"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "document"
+      },
+      {
+        "sym": "drugs"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "documents"
+      },
+      {
+        "sym": "strategies"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "dramas"
+      },
+      {
+        "sym": "real_events"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "films"
+      },
+      {
+        "sym": "mental_illness"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "narrative"
+      },
+      {
+        "sym": "history"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "outline"
+      },
+      {
+        "sym": "spirituality"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "pieces"
+      },
+      {
+        "sym": "stories"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "roundtables"
+      },
+      {
+        "sym": "keywords"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "section"
+      },
+      {
+        "sym": "interpretation"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "speech"
+      },
+      {
+        "sym": "idea"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "studies"
+      },
+      {
+        "sym": "adults"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "tales"
+      },
+      {
+        "sym": "concerns"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "texts"
+      },
+      {
+        "sym": "anecdotes"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "thesis"
+      },
+      {
+        "sym": "clinical_characteristics"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "views"
+      },
+      {
+        "sym": "television"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e1,e2)"
+      },
+      {
+        "sym": "volume"
+      },
+      {
+        "sym": "concepts"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e2,e1)"
+      },
+      {
+        "sym": "implications"
+      },
+      {
+        "sym": "publication"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e2,e1)"
+      },
+      {
+        "sym": "theory"
+      },
+      {
+        "sym": "science_fiction"
+      }
+    ],
+    [
+      {
+        "sym": "Message-Topic(e2,e1)"
+      },
+      {
+        "sym": "thesis"
+      },
+      {
+        "sym": "book"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "Asteroid"
+      },
+      {
+        "sym": "disaster"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "air"
+      },
+      {
+        "sym": "smell"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "attractions"
+      },
+      {
+        "sym": "billboards"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "blogger"
+      },
+      {
+        "sym": "conversation"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "children"
+      },
+      {
+        "sym": "exile"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "city"
+      },
+      {
+        "sym": "rock_and_roll"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "clubs"
+      },
+      {
+        "sym": "ownership"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "diamond"
+      },
+      {
+        "sym": "colliers"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "effect"
+      },
+      {
+        "sym": "way"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "farm"
+      },
+      {
+        "sym": "acres"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "filesharing"
+      },
+      {
+        "sym": "internet"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "lie"
+      },
+      {
+        "sym": "parents"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "magazine"
+      },
+      {
+        "sym": "sport"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "mushroom"
+      },
+      {
+        "sym": "mass"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "organizations"
+      },
+      {
+        "sym": "resources"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "receiver"
+      },
+      {
+        "sym": "tone"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "regulations"
+      },
+      {
+        "sym": "force"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "society"
+      },
+      {
+        "sym": "trends"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "stories"
+      },
+      {
+        "sym": "dance"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "treaty"
+      },
+      {
+        "sym": "rule"
+      }
+    ],
+    [
+      {
+        "sym": "Other"
+      },
+      {
+        "sym": "visit"
+      },
+      {
+        "sym": "strategy"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "comments"
+      },
+      {
+        "sym": "readers"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "design"
+      },
+      {
+        "sym": "wife"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "housing"
+      },
+      {
+        "sym": "developer"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "kimchi"
+      },
+      {
+        "sym": "maker"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "landscape"
+      },
+      {
+        "sym": "company"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "lines"
+      },
+      {
+        "sym": "author"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "posts"
+      },
+      {
+        "sym": "writer"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "software"
+      },
+      {
+        "sym": "company"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "song"
+      },
+      {
+        "sym": "musician"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e1,e2)"
+      },
+      {
+        "sym": "transcript"
+      },
+      {
+        "sym": "scribe"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "Researchers"
+      },
+      {
+        "sym": "ingredients"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "company"
+      },
+      {
+        "sym": "chairs"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "company"
+      },
+      {
+        "sym": "home"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "company"
+      },
+      {
+        "sym": "publication"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "family"
+      },
+      {
+        "sym": "features"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "fetus"
+      },
+      {
+        "sym": "insulin"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "foundry"
+      },
+      {
+        "sym": "frames"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "person"
+      },
+      {
+        "sym": "content"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "plant"
+      },
+      {
+        "sym": "vehicles"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "punchcutter"
+      },
+      {
+        "sym": "imprint"
+      }
+    ],
+    [
+      {
+        "sym": "Product-Producer(e2,e1)"
+      },
+      {
+        "sym": "student"
+      },
+      {
+        "sym": "application"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Analysts"
+      },
+      {
+        "sym": "frequency"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Asteroid"
+      },
+      {
+        "sym": "disaster"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Carpenters"
+      },
+      {
+        "sym": "wood"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Hospitals"
+      },
+      {
+        "sym": "apparatus"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Molten_core"
+      },
+      {
+        "sym": "river"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "News_programs"
+      },
+      {
+        "sym": "violence"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Rain"
+      },
+      {
+        "sym": "cancellation"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Red_grape"
+      },
+      {
+        "sym": "wine"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Researchers"
+      },
+      {
+        "sym": "ingredients"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "Roundworms"
+      },
+      {
+        "sym": "parasite"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "acid"
+      },
+      {
+        "sym": "eyes"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "actress"
+      },
+      {
+        "sym": "airport"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "air"
+      },
+      {
+        "sym": "smell"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "ale"
+      },
+      {
+        "sym": "mug"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "analyzer"
+      },
+      {
+        "sym": "method"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "article"
+      },
+      {
+        "sym": "use"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "attractions"
+      },
+      {
+        "sym": "billboards"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "attributes"
+      },
+      {
+        "sym": "children"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "audits"
+      },
+      {
+        "sym": "waste"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "back"
+      },
+      {
+        "sym": "chair"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "bar"
+      },
+      {
+        "sym": "seats"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "bazooka"
+      },
+      {
+        "sym": "game"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "blisters"
+      },
+      {
+        "sym": "herpes_simplex_virus"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "blogger"
+      },
+      {
+        "sym": "conversation"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "body"
+      },
+      {
+        "sym": "reservoir"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "bomb"
+      },
+      {
+        "sym": "suitcase"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "book"
+      },
+      {
+        "sym": "beauty"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "boots"
+      },
+      {
+        "sym": "box"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "bottle"
+      },
+      {
+        "sym": "container"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "cable_network"
+      },
+      {
+        "sym": "science_fiction_TV_shows"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "camera"
+      },
+      {
+        "sym": "leaflet_box"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "camp"
+      },
+      {
+        "sym": "champions"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "captain"
+      },
+      {
+        "sym": "crew"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "cartomancers"
+      },
+      {
+        "sym": "cards"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "cat"
+      },
+      {
+        "sym": "paw"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "cat"
+      },
+      {
+        "sym": "trap"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "chapter"
+      },
+      {
+        "sym": "importance"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "cherry"
+      },
+      {
+        "sym": "wine"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "children"
+      },
+      {
+        "sym": "exile"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "circle"
+      },
+      {
+        "sym": "hooligans"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "circuit"
+      },
+      {
+        "sym": "converter"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "city"
+      },
+      {
+        "sym": "rock_and_roll"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "claw"
+      },
+      {
+        "sym": "hammer"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "clock"
+      },
+      {
+        "sym": "presentations"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "clubs"
+      },
+      {
+        "sym": "ownership"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "clustering"
+      },
+      {
+        "sym": "clusters"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "coalition"
+      },
+      {
+        "sym": "interests"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "coffle"
+      },
+      {
+        "sym": "asses"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "coins"
+      },
+      {
+        "sym": "plastic_case"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "coloring"
+      },
+      {
+        "sym": "coat_of_arms"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "comments"
+      },
+      {
+        "sym": "readers"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "committee"
+      },
+      {
+        "sym": "organisation"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "company"
+      },
+      {
+        "sym": "chairs"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "company"
+      },
+      {
+        "sym": "home"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "company"
+      },
+      {
+        "sym": "publication"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "convocation"
+      },
+      {
+        "sym": "scholars"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "corps"
+      },
+      {
+        "sym": "cadets"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "crew"
+      },
+      {
+        "sym": "breast"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "cultures"
+      },
+      {
+        "sym": "epochs"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "data"
+      },
+      {
+        "sym": "epochs"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "defendant"
+      },
+      {
+        "sym": "custody"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "design"
+      },
+      {
+        "sym": "wife"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "diamond"
+      },
+      {
+        "sym": "colliers"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "diseases"
+      },
+      {
+        "sym": "gene_mutations"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "document"
+      },
+      {
+        "sym": "drugs"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "documents"
+      },
+      {
+        "sym": "strategies"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "dollars"
+      },
+      {
+        "sym": "trusts"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "door"
+      },
+      {
+        "sym": "lock"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "dramas"
+      },
+      {
+        "sym": "real_events"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "drawer"
+      },
+      {
+        "sym": "coffeemaker"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "ear"
+      },
+      {
+        "sym": "elephant"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "effect"
+      },
+      {
+        "sym": "way"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "family"
+      },
+      {
+        "sym": "features"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "farm"
+      },
+      {
+        "sym": "acres"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "father"
+      },
+      {
+        "sym": "bar"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "fatigue"
+      },
+      {
+        "sym": "pain"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "fetus"
+      },
+      {
+        "sym": "insulin"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "filesharing"
+      },
+      {
+        "sym": "internet"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "films"
+      },
+      {
+        "sym": "mental_illness"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "floppies"
+      },
+      {
+        "sym": "factory"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "forebrain"
+      },
+      {
+        "sym": "amphibians"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "foundry"
+      },
+      {
+        "sym": "frames"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "gift"
+      },
+      {
+        "sym": "friend"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "gulp"
+      },
+      {
+        "sym": "magpies"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "guy"
+      },
+      {
+        "sym": "car"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "high-wheelers"
+      },
+      {
+        "sym": "push-bike"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "hookup"
+      },
+      {
+        "sym": "users"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "housing"
+      },
+      {
+        "sym": "developer"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "implications"
+      },
+      {
+        "sym": "publication"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "influenza"
+      },
+      {
+        "sym": "virus"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "inspector"
+      },
+      {
+        "sym": "yard"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "joy"
+      },
+      {
+        "sym": "laughing"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "keeper"
+      },
+      {
+        "sym": "team"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "kimchi"
+      },
+      {
+        "sym": "maker"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "landscape"
+      },
+      {
+        "sym": "company"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "laptop"
+      },
+      {
+        "sym": "plastic_bag"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "lie"
+      },
+      {
+        "sym": "parents"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "lines"
+      },
+      {
+        "sym": "author"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "lithics"
+      },
+      {
+        "sym": "mountain_ranges"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "litter"
+      },
+      {
+        "sym": "rabbits"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "luff"
+      },
+      {
+        "sym": "sail"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "magazine"
+      },
+      {
+        "sym": "sport"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "man"
+      },
+      {
+        "sym": "car"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "man"
+      },
+      {
+        "sym": "countries"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "master"
+      },
+      {
+        "sym": "stick"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "method"
+      },
+      {
+        "sym": "combination"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "microbes"
+      },
+      {
+        "sym": "sickness"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "mischief"
+      },
+      {
+        "sym": "rats"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "model"
+      },
+      {
+        "sym": "example"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "monkeys"
+      },
+      {
+        "sym": "enclosure"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "murders"
+      },
+      {
+        "sym": "conviction"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "mushroom"
+      },
+      {
+        "sym": "mass"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "name"
+      },
+      {
+        "sym": "address"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "names"
+      },
+      {
+        "sym": "space"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "narrative"
+      },
+      {
+        "sym": "history"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "nurse"
+      },
+      {
+        "sym": "arm"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "offenders"
+      },
+      {
+        "sym": "officers"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "oil"
+      },
+      {
+        "sym": "ocean"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "opinions"
+      },
+      {
+        "sym": "blog"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "organizations"
+      },
+      {
+        "sym": "resources"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "outline"
+      },
+      {
+        "sym": "spirituality"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "papaya"
+      },
+      {
+        "sym": "nectar"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "parents"
+      },
+      {
+        "sym": "station"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "person"
+      },
+      {
+        "sym": "content"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "pieces"
+      },
+      {
+        "sym": "stories"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "plant"
+      },
+      {
+        "sym": "vehicles"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "plug"
+      },
+      {
+        "sym": "battery_box"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "pod"
+      },
+      {
+        "sym": "whales"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "pollen"
+      },
+      {
+        "sym": "basket"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "pollution"
+      },
+      {
+        "sym": "cars"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "posts"
+      },
+      {
+        "sym": "writer"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "potatoes"
+      },
+      {
+        "sym": "basket"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "president"
+      },
+      {
+        "sym": "university"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "pulp"
+      },
+      {
+        "sym": "tupperware_tub"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "punchcutter"
+      },
+      {
+        "sym": "imprint"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "rebound"
+      },
+      {
+        "sym": "net"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "receiver"
+      },
+      {
+        "sym": "tone"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "regulations"
+      },
+      {
+        "sym": "force"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "response"
+      },
+      {
+        "sym": "ripple"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "rice"
+      },
+      {
+        "sym": "flour"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "room"
+      },
+      {
+        "sym": "canvases"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "room"
+      },
+      {
+        "sym": "house"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "roundtables"
+      },
+      {
+        "sym": "keywords"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "samples"
+      },
+      {
+        "sym": "milking"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "section"
+      },
+      {
+        "sym": "interpretation"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "sesame"
+      },
+      {
+        "sym": "oil"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "slide"
+      },
+      {
+        "sym": "crew"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "society"
+      },
+      {
+        "sym": "trends"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "software"
+      },
+      {
+        "sym": "company"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "song"
+      },
+      {
+        "sym": "contest"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "song"
+      },
+      {
+        "sym": "musician"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "speech"
+      },
+      {
+        "sym": "idea"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "spills"
+      },
+      {
+        "sym": "hurricane"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "squad"
+      },
+      {
+        "sym": "beaters"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "squad"
+      },
+      {
+        "sym": "militants"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "station"
+      },
+      {
+        "sym": "device"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "statue"
+      },
+      {
+        "sym": "head"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "steps"
+      },
+      {
+        "sym": "stairs"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "stories"
+      },
+      {
+        "sym": "dance"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "student"
+      },
+      {
+        "sym": "application"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "studies"
+      },
+      {
+        "sym": "adults"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "subject"
+      },
+      {
+        "sym": "implication"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "survivors"
+      },
+      {
+        "sym": "houses"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "swim_bladder"
+      },
+      {
+        "sym": "animals"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "talent"
+      },
+      {
+        "sym": "village"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "tales"
+      },
+      {
+        "sym": "concerns"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "telescope"
+      },
+      {
+        "sym": "lenses"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "texts"
+      },
+      {
+        "sym": "anecdotes"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "theory"
+      },
+      {
+        "sym": "science_fiction"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "thesis"
+      },
+      {
+        "sym": "book"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "thesis"
+      },
+      {
+        "sym": "clinical_characteristics"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "transcript"
+      },
+      {
+        "sym": "scribe"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "treaty"
+      },
+      {
+        "sym": "rule"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "tree"
+      },
+      {
+        "sym": "crown"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "tube"
+      },
+      {
+        "sym": "container"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "vibrations"
+      },
+      {
+        "sym": "movement"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "views"
+      },
+      {
+        "sym": "television"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "viruses"
+      },
+      {
+        "sym": "infections"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "visit"
+      },
+      {
+        "sym": "strategy"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "volume"
+      },
+      {
+        "sym": "concepts"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "website"
+      },
+      {
+        "sym": "articles"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "wine"
+      },
+      {
+        "sym": "grapes"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "witch"
+      },
+      {
+        "sym": "magic"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "young"
+      },
+      {
+        "sym": "nest"
+      }
+    ],
+    [
+      {
+        "sym": "related_to"
+      },
+      {
+        "sym": "zoo"
+      },
+      {
+        "sym": "beasts"
+      }
+    ]
+  ],
+  "rules": [
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Cause-Effect(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Cause-Effect(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Component-Whole(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Component-Whole(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Content-Container(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Content-Container(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Entity-Destination(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Entity-Destination(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Entity-Origin(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Entity-Origin(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Instrument-Agency(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Instrument-Agency(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Member-Collection(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Member-Collection(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Message-Topic(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Message-Topic(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Product-Producer(e1,e2)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Product-Producer(e2,e1)"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    },
+    {
+      "head": [
+        {
+          "sym": "related_to"
+        },
+        {
+          "var": "X"
+        },
+        {
+          "var": "Y"
+        }
+      ],
+      "body": [
+        [
+          {
+            "sym": "Other"
+          },
+          {
+            "var": "X"
+          },
+          {
+            "var": "Y"
+          }
+        ]
+      ]
+    }
+  ],
+  "graph_edges": [
+    {
+      "subj": "audits",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "waste",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "company",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "chairs",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "master",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "stick",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "body",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "reservoir",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "influenza",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "virus",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "ear",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "elephant",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "lie",
+      "relation": "Other",
+      "obj": "parents",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "hookup",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "users",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "room",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "house",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "thesis",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "clinical_characteristics",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "survivors",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "houses",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "kimchi",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "maker",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "names",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "space",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "landscape",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "company",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "gift",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "friend",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "young",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "nest",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "actress",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "airport",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "filesharing",
+      "relation": "Other",
+      "obj": "internet",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "zoo",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "beasts",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "song",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "musician",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "outline",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "spirituality",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "bomb",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "suitcase",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "software",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "company",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "captain",
+      "relation": "Member-Collection(e1,e2)",
+      "obj": "crew",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "sesame",
+      "relation": "Entity-Origin(e2,e1)",
+      "obj": "oil",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "housing",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "developer",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "effect",
+      "relation": "Other",
+      "obj": "way",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "dramas",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "real_events",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "cultures",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "epochs",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "viruses",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "infections",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "pieces",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "stories",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "steps",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "stairs",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "blisters",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "herpes_simplex_virus",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "luff",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "sail",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "circuit",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "converter",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "camp",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "champions",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "pod",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "whales",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Roundworms",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "parasite",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "subject",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "implication",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "cat",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "paw",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "treaty",
+      "relation": "Other",
+      "obj": "rule",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "oil",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "ocean",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "talent",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "village",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "coins",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "plastic_case",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "bottle",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "container",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "News_programs",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "violence",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "acid",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "eyes",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "room",
+      "relation": "Content-Container(e2,e1)",
+      "obj": "canvases",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "gulp",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "magpies",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "convocation",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "scholars",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "murders",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "conviction",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "monkeys",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "enclosure",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "opinions",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "blog",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "vibrations",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "movement",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "diamond",
+      "relation": "Other",
+      "obj": "colliers",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "door",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "lock",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Red_grape",
+      "relation": "Entity-Origin(e2,e1)",
+      "obj": "wine",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "transcript",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "scribe",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "witch",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "magic",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "committee",
+      "relation": "Member-Collection(e1,e2)",
+      "obj": "organisation",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "clock",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "presentations",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "family",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "features",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "method",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "combination",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "statue",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "head",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "article",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "use",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "comments",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "readers",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "president",
+      "relation": "Member-Collection(e1,e2)",
+      "obj": "university",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "wine",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "grapes",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "slide",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "crew",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "inspector",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "yard",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "regulations",
+      "relation": "Other",
+      "obj": "force",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "children",
+      "relation": "Other",
+      "obj": "exile",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "father",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "bar",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "rebound",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "net",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "student",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "application",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "bar",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "seats",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "back",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "chair",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "fatigue",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "pain",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "claw",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "hammer",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "magazine",
+      "relation": "Other",
+      "obj": "sport",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "cartomancers",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "cards",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "films",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "mental_illness",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "company",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "publication",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "papaya",
+      "relation": "Entity-Origin(e2,e1)",
+      "obj": "nectar",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "volume",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "concepts",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "defendant",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "custody",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "plant",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "vehicles",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "clubs",
+      "relation": "Other",
+      "obj": "ownership",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "man",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "car",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "section",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "interpretation",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "drawer",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "coffeemaker",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "tube",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "container",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "views",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "television",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "chapter",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "importance",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "station",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "device",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "offenders",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "officers",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "book",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "beauty",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "spills",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "hurricane",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "studies",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "adults",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "diseases",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "gene_mutations",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "response",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "ripple",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "tree",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "crown",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "mischief",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "rats",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "cable_network",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "science_fiction_TV_shows",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "cat",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "trap",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "stories",
+      "relation": "Other",
+      "obj": "dance",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "foundry",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "frames",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "air",
+      "relation": "Other",
+      "obj": "smell",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "joy",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "laughing",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "lines",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "author",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "receiver",
+      "relation": "Other",
+      "obj": "tone",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "squad",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "militants",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "telescope",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "lenses",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "pulp",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "tupperware_tub",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Carpenters",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "wood",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "samples",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "milking",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "blogger",
+      "relation": "Other",
+      "obj": "conversation",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "speech",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "idea",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "rice",
+      "relation": "Entity-Origin(e2,e1)",
+      "obj": "flour",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Asteroid",
+      "relation": "Other",
+      "obj": "disaster",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "farm",
+      "relation": "Other",
+      "obj": "acres",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "laptop",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "plastic_bag",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "tales",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "concerns",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "forebrain",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "amphibians",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "company",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "home",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "camera",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "leaflet_box",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "organizations",
+      "relation": "Other",
+      "obj": "resources",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "swim_bladder",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "animals",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "coffle",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "asses",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "coloring",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "coat_of_arms",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "coalition",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "interests",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "data",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "epochs",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "city",
+      "relation": "Other",
+      "obj": "rock_and_roll",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "parents",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "station",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Hospitals",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "apparatus",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "boots",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "box",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "attractions",
+      "relation": "Other",
+      "obj": "billboards",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "guy",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "car",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "fetus",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "insulin",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "design",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "wife",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "circle",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "hooligans",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "litter",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "rabbits",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "texts",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "anecdotes",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "documents",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "strategies",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "punchcutter",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "imprint",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "plug",
+      "relation": "Component-Whole(e1,e2)",
+      "obj": "battery_box",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "visit",
+      "relation": "Other",
+      "obj": "strategy",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "microbes",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "sickness",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "implications",
+      "relation": "Message-Topic(e2,e1)",
+      "obj": "publication",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "document",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "drugs",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "bazooka",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "game",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "model",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "example",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Researchers",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "ingredients",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "ale",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "mug",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "corps",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "cadets",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "name",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "address",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Analysts",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "frequency",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "man",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "countries",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "keeper",
+      "relation": "Member-Collection(e1,e2)",
+      "obj": "team",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "high-wheelers",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "push-bike",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "pollution",
+      "relation": "Cause-Effect(e2,e1)",
+      "obj": "cars",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "posts",
+      "relation": "Product-Producer(e1,e2)",
+      "obj": "writer",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Molten_core",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "river",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "lithics",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "mountain_ranges",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "analyzer",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "method",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "narrative",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "history",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "attributes",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "children",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "pollen",
+      "relation": "Content-Container(e1,e2)",
+      "obj": "basket",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "nurse",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "arm",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "person",
+      "relation": "Product-Producer(e2,e1)",
+      "obj": "content",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "mushroom",
+      "relation": "Other",
+      "obj": "mass",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "squad",
+      "relation": "Member-Collection(e2,e1)",
+      "obj": "beaters",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "potatoes",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "basket",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "thesis",
+      "relation": "Message-Topic(e2,e1)",
+      "obj": "book",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "crew",
+      "relation": "Instrument-Agency(e2,e1)",
+      "obj": "breast",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "Rain",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "cancellation",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "society",
+      "relation": "Other",
+      "obj": "trends",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "roundtables",
+      "relation": "Message-Topic(e1,e2)",
+      "obj": "keywords",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "website",
+      "relation": "Component-Whole(e2,e1)",
+      "obj": "articles",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "theory",
+      "relation": "Message-Topic(e2,e1)",
+      "obj": "science_fiction",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "clustering",
+      "relation": "Cause-Effect(e1,e2)",
+      "obj": "clusters",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "cherry",
+      "relation": "Entity-Origin(e2,e1)",
+      "obj": "wine",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "song",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "contest",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "dollars",
+      "relation": "Entity-Destination(e1,e2)",
+      "obj": "trusts",
+      "provenance": "eval_graduation"
+    },
+    {
+      "subj": "floppies",
+      "relation": "Entity-Origin(e1,e2)",
+      "obj": "factory",
+      "provenance": "eval_graduation"
+    }
+  ],
+  "graph_nodes": {
+    "audits": {
+      "metadata": {
+        "prob": 0.9434177875518799
+      },
+      "embedding_dim": 768
+    },
+    "waste": {
+      "metadata": {
+        "prob": 0.9434177875518799
+      },
+      "embedding_dim": 768
+    },
+    "company": {
+      "metadata": {
+        "prob": 0.5359732508659363
+      },
+      "embedding_dim": 768
+    },
+    "chairs": {
+      "metadata": {
+        "prob": 0.9575573205947876
+      },
+      "embedding_dim": 768
+    },
+    "master": {
+      "metadata": {
+        "prob": 0.9539540410041809
+      },
+      "embedding_dim": 768
+    },
+    "stick": {
+      "metadata": {
+        "prob": 0.9539540410041809
+      },
+      "embedding_dim": 768
+    },
+    "body": {
+      "metadata": {
+        "prob": 0.986491322517395
+      },
+      "embedding_dim": 768
+    },
+    "reservoir": {
+      "metadata": {
+        "prob": 0.986491322517395
+      },
+      "embedding_dim": 768
+    },
+    "influenza": {
+      "metadata": {
+        "prob": 0.9474776387214661
+      },
+      "embedding_dim": 768
+    },
+    "virus": {
+      "metadata": {
+        "prob": 0.9474776387214661
+      },
+      "embedding_dim": 768
+    },
+    "ear": {
+      "metadata": {
+        "prob": 0.9844085574150085
+      },
+      "embedding_dim": 768
+    },
+    "elephant": {
+      "metadata": {
+        "prob": 0.9844085574150085
+      },
+      "embedding_dim": 768
+    },
+    "lie": {
+      "metadata": {
+        "prob": 0.6765779256820679
+      },
+      "embedding_dim": 768
+    },
+    "parents": {
+      "metadata": {
+        "prob": 0.9675355553627014
+      },
+      "embedding_dim": 768
+    },
+    "hookup": {
+      "metadata": {
+        "prob": 0.7557028532028198
+      },
+      "embedding_dim": 768
+    },
+    "users": {
+      "metadata": {
+        "prob": 0.7557028532028198
+      },
+      "embedding_dim": 768
+    },
+    "room": {
+      "metadata": {
+        "prob": 0.8119350075721741
+      },
+      "embedding_dim": 768
+    },
+    "house": {
+      "metadata": {
+        "prob": 0.6031242609024048
+      },
+      "embedding_dim": 768
+    },
+    "thesis": {
+      "metadata": {
+        "prob": 0.8126409649848938
+      },
+      "embedding_dim": 768
+    },
+    "clinical_characteristics": {
+      "metadata": {
+        "prob": 0.9634019732475281
+      },
+      "embedding_dim": 768
+    },
+    "survivors": {
+      "metadata": {
+        "prob": 0.9776954054832458
+      },
+      "embedding_dim": 768
+    },
+    "houses": {
+      "metadata": {
+        "prob": 0.9776954054832458
+      },
+      "embedding_dim": 768
+    },
+    "kimchi": {
+      "metadata": {
+        "prob": 0.9011383056640625
+      },
+      "embedding_dim": 768
+    },
+    "maker": {
+      "metadata": {
+        "prob": 0.9011383056640625
+      },
+      "embedding_dim": 768
+    },
+    "names": {
+      "metadata": {
+        "prob": 0.9852567315101624
+      },
+      "embedding_dim": 768
+    },
+    "space": {
+      "metadata": {
+        "prob": 0.9852567315101624
+      },
+      "embedding_dim": 768
+    },
+    "landscape": {
+      "metadata": {
+        "prob": 0.7717428207397461
+      },
+      "embedding_dim": 768
+    },
+    "gift": {
+      "metadata": {
+        "prob": 0.955432653427124
+      },
+      "embedding_dim": 768
+    },
+    "friend": {
+      "metadata": {
+        "prob": 0.955432653427124
+      },
+      "embedding_dim": 768
+    },
+    "young": {
+      "metadata": {
+        "prob": 0.9531000256538391
+      },
+      "embedding_dim": 768
+    },
+    "nest": {
+      "metadata": {
+        "prob": 0.9531000256538391
+      },
+      "embedding_dim": 768
+    },
+    "actress": {
+      "metadata": {
+        "prob": 0.5581028461456299
+      },
+      "embedding_dim": 768
+    },
+    "airport": {
+      "metadata": {
+        "prob": 0.5581028461456299
+      },
+      "embedding_dim": 768
+    },
+    "filesharing": {
+      "metadata": {
+        "prob": 0.9344687461853027
+      },
+      "embedding_dim": 768
+    },
+    "internet": {
+      "metadata": {
+        "prob": 0.9344687461853027
+      },
+      "embedding_dim": 768
+    },
+    "zoo": {
+      "metadata": {
+        "prob": 0.9787755012512207
+      },
+      "embedding_dim": 768
+    },
+    "beasts": {
+      "metadata": {
+        "prob": 0.9787755012512207
+      },
+      "embedding_dim": 768
+    },
+    "song": {
+      "metadata": {
+        "prob": 0.8956152200698853
+      },
+      "embedding_dim": 768
+    },
+    "musician": {
+      "metadata": {
+        "prob": 0.9118627905845642
+      },
+      "embedding_dim": 768
+    },
+    "outline": {
+      "metadata": {
+        "prob": 0.9590597748756409
+      },
+      "embedding_dim": 768
+    },
+    "spirituality": {
+      "metadata": {
+        "prob": 0.9590597748756409
+      },
+      "embedding_dim": 768
+    },
+    "bomb": {
+      "metadata": {
+        "prob": 0.9842190146446228
+      },
+      "embedding_dim": 768
+    },
+    "suitcase": {
+      "metadata": {
+        "prob": 0.9842190146446228
+      },
+      "embedding_dim": 768
+    },
+    "software": {
+      "metadata": {
+        "prob": 0.7854428291320801
+      },
+      "embedding_dim": 768
+    },
+    "captain": {
+      "metadata": {
+        "prob": 0.49183177947998047
+      },
+      "embedding_dim": 768
+    },
+    "crew": {
+      "metadata": {
+        "prob": 0.4569816291332245
+      },
+      "embedding_dim": 768
+    },
+    "sesame": {
+      "metadata": {
+        "prob": 0.955289363861084
+      },
+      "embedding_dim": 768
+    },
+    "oil": {
+      "metadata": {
+        "prob": 0.987557053565979
+      },
+      "embedding_dim": 768
+    },
+    "housing": {
+      "metadata": {
+        "prob": 0.7220556735992432
+      },
+      "embedding_dim": 768
+    },
+    "developer": {
+      "metadata": {
+        "prob": 0.7220556735992432
+      },
+      "embedding_dim": 768
+    },
+    "effect": {
+      "metadata": {
+        "prob": 0.9716453552246094
+      },
+      "embedding_dim": 768
+    },
+    "way": {
+      "metadata": {
+        "prob": 0.9716453552246094
+      },
+      "embedding_dim": 768
+    },
+    "dramas": {
+      "metadata": {
+        "prob": 0.6127899885177612
+      },
+      "embedding_dim": 768
+    },
+    "real_events": {
+      "metadata": {
+        "prob": 0.6127899885177612
+      },
+      "embedding_dim": 768
+    },
+    "cultures": {
+      "metadata": {
+        "prob": 0.9197835326194763
+      },
+      "embedding_dim": 768
+    },
+    "epochs": {
+      "metadata": {
+        "prob": 0.8367443680763245
+      },
+      "embedding_dim": 768
+    },
+    "viruses": {
+      "metadata": {
+        "prob": 0.9814450144767761
+      },
+      "embedding_dim": 768
+    },
+    "infections": {
+      "metadata": {
+        "prob": 0.9814450144767761
+      },
+      "embedding_dim": 768
+    },
+    "pieces": {
+      "metadata": {
+        "prob": 0.972722053527832
+      },
+      "embedding_dim": 768
+    },
+    "stories": {
+      "metadata": {
+        "prob": 0.7309762239456177
+      },
+      "embedding_dim": 768
+    },
+    "steps": {
+      "metadata": {
+        "prob": 0.9735011458396912
+      },
+      "embedding_dim": 768
+    },
+    "stairs": {
+      "metadata": {
+        "prob": 0.9735011458396912
+      },
+      "embedding_dim": 768
+    },
+    "blisters": {
+      "metadata": {
+        "prob": 0.9731746912002563
+      },
+      "embedding_dim": 768
+    },
+    "herpes_simplex_virus": {
+      "metadata": {
+        "prob": 0.9731746912002563
+      },
+      "embedding_dim": 768
+    },
+    "luff": {
+      "metadata": {
+        "prob": 0.924072802066803
+      },
+      "embedding_dim": 768
+    },
+    "sail": {
+      "metadata": {
+        "prob": 0.924072802066803
+      },
+      "embedding_dim": 768
+    },
+    "circuit": {
+      "metadata": {
+        "prob": 0.9743831753730774
+      },
+      "embedding_dim": 768
+    },
+    "converter": {
+      "metadata": {
+        "prob": 0.9743831753730774
+      },
+      "embedding_dim": 768
+    },
+    "camp": {
+      "metadata": {
+        "prob": 0.962668240070343
+      },
+      "embedding_dim": 768
+    },
+    "champions": {
+      "metadata": {
+        "prob": 0.962668240070343
+      },
+      "embedding_dim": 768
+    },
+    "pod": {
+      "metadata": {
+        "prob": 0.9712731242179871
+      },
+      "embedding_dim": 768
+    },
+    "whales": {
+      "metadata": {
+        "prob": 0.9712731242179871
+      },
+      "embedding_dim": 768
+    },
+    "Roundworms": {
+      "metadata": {
+        "prob": 0.9708059430122375
+      },
+      "embedding_dim": 768
+    },
+    "parasite": {
+      "metadata": {
+        "prob": 0.9708059430122375
+      },
+      "embedding_dim": 768
+    },
+    "subject": {
+      "metadata": {
+        "prob": 0.7154957056045532
+      },
+      "embedding_dim": 768
+    },
+    "implication": {
+      "metadata": {
+        "prob": 0.7154957056045532
+      },
+      "embedding_dim": 768
+    },
+    "cat": {
+      "metadata": {
+        "prob": 0.7574189901351929
+      },
+      "embedding_dim": 768
+    },
+    "paw": {
+      "metadata": {
+        "prob": 0.8868856430053711
+      },
+      "embedding_dim": 768
+    },
+    "treaty": {
+      "metadata": {
+        "prob": 0.5466735363006592
+      },
+      "embedding_dim": 768
+    },
+    "rule": {
+      "metadata": {
+        "prob": 0.5466735363006592
+      },
+      "embedding_dim": 768
+    },
+    "ocean": {
+      "metadata": {
+        "prob": 0.987557053565979
+      },
+      "embedding_dim": 768
+    },
+    "talent": {
+      "metadata": {
+        "prob": 0.7419720888137817
+      },
+      "embedding_dim": 768
+    },
+    "village": {
+      "metadata": {
+        "prob": 0.7419720888137817
+      },
+      "embedding_dim": 768
+    },
+    "coins": {
+      "metadata": {
+        "prob": 0.9633838534355164
+      },
+      "embedding_dim": 768
+    },
+    "plastic_case": {
+      "metadata": {
+        "prob": 0.9633838534355164
+      },
+      "embedding_dim": 768
+    },
+    "bottle": {
+      "metadata": {
+        "prob": 0.5719132423400879
+      },
+      "embedding_dim": 768
+    },
+    "container": {
+      "metadata": {
+        "prob": 0.9840518236160278
+      },
+      "embedding_dim": 768
+    },
+    "News_programs": {
+      "metadata": {
+        "prob": 0.968830943107605
+      },
+      "embedding_dim": 768
+    },
+    "violence": {
+      "metadata": {
+        "prob": 0.968830943107605
+      },
+      "embedding_dim": 768
+    },
+    "acid": {
+      "metadata": {
+        "prob": 0.9881762266159058
+      },
+      "embedding_dim": 768
+    },
+    "eyes": {
+      "metadata": {
+        "prob": 0.9881762266159058
+      },
+      "embedding_dim": 768
+    },
+    "canvases": {
+      "metadata": {
+        "prob": 0.8119350075721741
+      },
+      "embedding_dim": 768
+    },
+    "gulp": {
+      "metadata": {
+        "prob": 0.8688884377479553
+      },
+      "embedding_dim": 768
+    },
+    "magpies": {
+      "metadata": {
+        "prob": 0.8688884377479553
+      },
+      "embedding_dim": 768
+    },
+    "convocation": {
+      "metadata": {
+        "prob": 0.9660282731056213
+      },
+      "embedding_dim": 768
+    },
+    "scholars": {
+      "metadata": {
+        "prob": 0.9660282731056213
+      },
+      "embedding_dim": 768
+    },
+    "murders": {
+      "metadata": {
+        "prob": 0.9804062843322754
+      },
+      "embedding_dim": 768
+    },
+    "conviction": {
+      "metadata": {
+        "prob": 0.9804062843322754
+      },
+      "embedding_dim": 768
+    },
+    "monkeys": {
+      "metadata": {
+        "prob": 0.9791481494903564
+      },
+      "embedding_dim": 768
+    },
+    "enclosure": {
+      "metadata": {
+        "prob": 0.9791481494903564
+      },
+      "embedding_dim": 768
+    },
+    "opinions": {
+      "metadata": {
+        "prob": 0.9792120456695557
+      },
+      "embedding_dim": 768
+    },
+    "blog": {
+      "metadata": {
+        "prob": 0.9792120456695557
+      },
+      "embedding_dim": 768
+    },
+    "vibrations": {
+      "metadata": {
+        "prob": 0.9860094785690308
+      },
+      "embedding_dim": 768
+    },
+    "movement": {
+      "metadata": {
+        "prob": 0.9860094785690308
+      },
+      "embedding_dim": 768
+    },
+    "diamond": {
+      "metadata": {
+        "prob": 0.538123607635498
+      },
+      "embedding_dim": 768
+    },
+    "colliers": {
+      "metadata": {
+        "prob": 0.538123607635498
+      },
+      "embedding_dim": 768
+    },
+    "door": {
+      "metadata": {
+        "prob": 0.8658676743507385
+      },
+      "embedding_dim": 768
+    },
+    "lock": {
+      "metadata": {
+        "prob": 0.8658676743507385
+      },
+      "embedding_dim": 768
+    },
+    "Red_grape": {
+      "metadata": {
+        "prob": 0.9613586664199829
+      },
+      "embedding_dim": 768
+    },
+    "wine": {
+      "metadata": {
+        "prob": 0.9501366019248962
+      },
+      "embedding_dim": 768
+    },
+    "transcript": {
+      "metadata": {
+        "prob": 0.9053172469139099
+      },
+      "embedding_dim": 768
+    },
+    "scribe": {
+      "metadata": {
+        "prob": 0.9053172469139099
+      },
+      "embedding_dim": 768
+    },
+    "witch": {
+      "metadata": {
+        "prob": 0.9472321271896362
+      },
+      "embedding_dim": 768
+    },
+    "magic": {
+      "metadata": {
+        "prob": 0.9472321271896362
+      },
+      "embedding_dim": 768
+    },
+    "committee": {
+      "metadata": {
+        "prob": 0.5828900933265686
+      },
+      "embedding_dim": 768
+    },
+    "organisation": {
+      "metadata": {
+        "prob": 0.5828900933265686
+      },
+      "embedding_dim": 768
+    },
+    "clock": {
+      "metadata": {
+        "prob": 0.9755679965019226
+      },
+      "embedding_dim": 768
+    },
+    "presentations": {
+      "metadata": {
+        "prob": 0.9755679965019226
+      },
+      "embedding_dim": 768
+    },
+    "family": {
+      "metadata": {
+        "prob": 0.8432676196098328
+      },
+      "embedding_dim": 768
+    },
+    "features": {
+      "metadata": {
+        "prob": 0.8432676196098328
+      },
+      "embedding_dim": 768
+    },
+    "method": {
+      "metadata": {
+        "prob": 0.478590190410614
+      },
+      "embedding_dim": 768
+    },
+    "combination": {
+      "metadata": {
+        "prob": 0.5432960391044617
+      },
+      "embedding_dim": 768
+    },
+    "statue": {
+      "metadata": {
+        "prob": 0.9298654198646545
+      },
+      "embedding_dim": 768
+    },
+    "head": {
+      "metadata": {
+        "prob": 0.9298654198646545
+      },
+      "embedding_dim": 768
+    },
+    "article": {
+      "metadata": {
+        "prob": 0.9155791997909546
+      },
+      "embedding_dim": 768
+    },
+    "use": {
+      "metadata": {
+        "prob": 0.9155791997909546
+      },
+      "embedding_dim": 768
+    },
+    "comments": {
+      "metadata": {
+        "prob": 0.7869940400123596
+      },
+      "embedding_dim": 768
+    },
+    "readers": {
+      "metadata": {
+        "prob": 0.7869940400123596
+      },
+      "embedding_dim": 768
+    },
+    "president": {
+      "metadata": {
+        "prob": 0.6441811323165894
+      },
+      "embedding_dim": 768
+    },
+    "university": {
+      "metadata": {
+        "prob": 0.6441811323165894
+      },
+      "embedding_dim": 768
+    },
+    "grapes": {
+      "metadata": {
+        "prob": 0.9271411299705505
+      },
+      "embedding_dim": 768
+    },
+    "slide": {
+      "metadata": {
+        "prob": 0.927054762840271
+      },
+      "embedding_dim": 768
+    },
+    "inspector": {
+      "metadata": {
+        "prob": 0.9074100255966187
+      },
+      "embedding_dim": 768
+    },
+    "yard": {
+      "metadata": {
+        "prob": 0.9074100255966187
+      },
+      "embedding_dim": 768
+    },
+    "regulations": {
+      "metadata": {
+        "prob": 0.7472453117370605
+      },
+      "embedding_dim": 768
+    },
+    "force": {
+      "metadata": {
+        "prob": 0.7472453117370605
+      },
+      "embedding_dim": 768
+    },
+    "children": {
+      "metadata": {
+        "prob": 0.944756269454956
+      },
+      "embedding_dim": 768
+    },
+    "exile": {
+      "metadata": {
+        "prob": 0.9621322751045227
+      },
+      "embedding_dim": 768
+    },
+    "father": {
+      "metadata": {
+        "prob": 0.7469371557235718
+      },
+      "embedding_dim": 768
+    },
+    "bar": {
+      "metadata": {
+        "prob": 0.9786639213562012
+      },
+      "embedding_dim": 768
+    },
+    "rebound": {
+      "metadata": {
+        "prob": 0.9768884181976318
+      },
+      "embedding_dim": 768
+    },
+    "net": {
+      "metadata": {
+        "prob": 0.9768884181976318
+      },
+      "embedding_dim": 768
+    },
+    "student": {
+      "metadata": {
+        "prob": 0.9380841255187988
+      },
+      "embedding_dim": 768
+    },
+    "application": {
+      "metadata": {
+        "prob": 0.9380841255187988
+      },
+      "embedding_dim": 768
+    },
+    "seats": {
+      "metadata": {
+        "prob": 0.9786639213562012
+      },
+      "embedding_dim": 768
+    },
+    "back": {
+      "metadata": {
+        "prob": 0.9807069301605225
+      },
+      "embedding_dim": 768
+    },
+    "chair": {
+      "metadata": {
+        "prob": 0.9807069301605225
+      },
+      "embedding_dim": 768
+    },
+    "fatigue": {
+      "metadata": {
+        "prob": 0.9827139973640442
+      },
+      "embedding_dim": 768
+    },
+    "pain": {
+      "metadata": {
+        "prob": 0.9827139973640442
+      },
+      "embedding_dim": 768
+    },
+    "claw": {
+      "metadata": {
+        "prob": 0.9687709212303162
+      },
+      "embedding_dim": 768
+    },
+    "hammer": {
+      "metadata": {
+        "prob": 0.9687709212303162
+      },
+      "embedding_dim": 768
+    },
+    "magazine": {
+      "metadata": {
+        "prob": 0.5976874232292175
+      },
+      "embedding_dim": 768
+    },
+    "sport": {
+      "metadata": {
+        "prob": 0.5976874232292175
+      },
+      "embedding_dim": 768
+    },
+    "cartomancers": {
+      "metadata": {
+        "prob": 0.9678510427474976
+      },
+      "embedding_dim": 768
+    },
+    "cards": {
+      "metadata": {
+        "prob": 0.9678510427474976
+      },
+      "embedding_dim": 768
+    },
+    "films": {
+      "metadata": {
+        "prob": 0.9631052017211914
+      },
+      "embedding_dim": 768
+    },
+    "mental_illness": {
+      "metadata": {
+        "prob": 0.9631052017211914
+      },
+      "embedding_dim": 768
+    },
+    "publication": {
+      "metadata": {
+        "prob": 0.9060643315315247
+      },
+      "embedding_dim": 768
+    },
+    "papaya": {
+      "metadata": {
+        "prob": 0.9434321522712708
+      },
+      "embedding_dim": 768
+    },
+    "nectar": {
+      "metadata": {
+        "prob": 0.9434321522712708
+      },
+      "embedding_dim": 768
+    },
+    "volume": {
+      "metadata": {
+        "prob": 0.9676750898361206
+      },
+      "embedding_dim": 768
+    },
+    "concepts": {
+      "metadata": {
+        "prob": 0.9676750898361206
+      },
+      "embedding_dim": 768
+    },
+    "defendant": {
+      "metadata": {
+        "prob": 0.746039867401123
+      },
+      "embedding_dim": 768
+    },
+    "custody": {
+      "metadata": {
+        "prob": 0.746039867401123
+      },
+      "embedding_dim": 768
+    },
+    "plant": {
+      "metadata": {
+        "prob": 0.9480475187301636
+      },
+      "embedding_dim": 768
+    },
+    "vehicles": {
+      "metadata": {
+        "prob": 0.9480475187301636
+      },
+      "embedding_dim": 768
+    },
+    "clubs": {
+      "metadata": {
+        "prob": 0.9719141125679016
+      },
+      "embedding_dim": 768
+    },
+    "ownership": {
+      "metadata": {
+        "prob": 0.9719141125679016
+      },
+      "embedding_dim": 768
+    },
+    "man": {
+      "metadata": {
+        "prob": 0.9755749702453613
+      },
+      "embedding_dim": 768
+    },
+    "car": {
+      "metadata": {
+        "prob": 0.9157336354255676
+      },
+      "embedding_dim": 768
+    },
+    "section": {
+      "metadata": {
+        "prob": 0.8713657259941101
+      },
+      "embedding_dim": 768
+    },
+    "interpretation": {
+      "metadata": {
+        "prob": 0.8713657259941101
+      },
+      "embedding_dim": 768
+    },
+    "drawer": {
+      "metadata": {
+        "prob": 0.9429413676261902
+      },
+      "embedding_dim": 768
+    },
+    "coffeemaker": {
+      "metadata": {
+        "prob": 0.9429413676261902
+      },
+      "embedding_dim": 768
+    },
+    "tube": {
+      "metadata": {
+        "prob": 0.9840518236160278
+      },
+      "embedding_dim": 768
+    },
+    "views": {
+      "metadata": {
+        "prob": 0.958396315574646
+      },
+      "embedding_dim": 768
+    },
+    "television": {
+      "metadata": {
+        "prob": 0.958396315574646
+      },
+      "embedding_dim": 768
+    },
+    "chapter": {
+      "metadata": {
+        "prob": 0.9626312851905823
+      },
+      "embedding_dim": 768
+    },
+    "importance": {
+      "metadata": {
+        "prob": 0.9626312851905823
+      },
+      "embedding_dim": 768
+    },
+    "station": {
+      "metadata": {
+        "prob": 0.9675355553627014
+      },
+      "embedding_dim": 768
+    },
+    "device": {
+      "metadata": {
+        "prob": 0.9245579838752747
+      },
+      "embedding_dim": 768
+    },
+    "offenders": {
+      "metadata": {
+        "prob": 0.6240136027336121
+      },
+      "embedding_dim": 768
+    },
+    "officers": {
+      "metadata": {
+        "prob": 0.6240136027336121
+      },
+      "embedding_dim": 768
+    },
+    "book": {
+      "metadata": {
+        "prob": 0.8126409649848938
+      },
+      "embedding_dim": 768
+    },
+    "beauty": {
+      "metadata": {
+        "prob": 0.9536342024803162
+      },
+      "embedding_dim": 768
+    },
+    "spills": {
+      "metadata": {
+        "prob": 0.9798708558082581
+      },
+      "embedding_dim": 768
+    },
+    "hurricane": {
+      "metadata": {
+        "prob": 0.9798708558082581
+      },
+      "embedding_dim": 768
+    },
+    "studies": {
+      "metadata": {
+        "prob": 0.9563005566596985
+      },
+      "embedding_dim": 768
+    },
+    "adults": {
+      "metadata": {
+        "prob": 0.9563005566596985
+      },
+      "embedding_dim": 768
+    },
+    "diseases": {
+      "metadata": {
+        "prob": 0.9754221439361572
+      },
+      "embedding_dim": 768
+    },
+    "gene_mutations": {
+      "metadata": {
+        "prob": 0.9754221439361572
+      },
+      "embedding_dim": 768
+    },
+    "response": {
+      "metadata": {
+        "prob": 0.9819028377532959
+      },
+      "embedding_dim": 768
+    },
+    "ripple": {
+      "metadata": {
+        "prob": 0.9819028377532959
+      },
+      "embedding_dim": 768
+    },
+    "tree": {
+      "metadata": {
+        "prob": 0.867306113243103
+      },
+      "embedding_dim": 768
+    },
+    "crown": {
+      "metadata": {
+        "prob": 0.867306113243103
+      },
+      "embedding_dim": 768
+    },
+    "mischief": {
+      "metadata": {
+        "prob": 0.6902448534965515
+      },
+      "embedding_dim": 768
+    },
+    "rats": {
+      "metadata": {
+        "prob": 0.6902448534965515
+      },
+      "embedding_dim": 768
+    },
+    "cable_network": {
+      "metadata": {
+        "prob": 0.5173820853233337
+      },
+      "embedding_dim": 768
+    },
+    "science_fiction_TV_shows": {
+      "metadata": {
+        "prob": 0.5173820853233337
+      },
+      "embedding_dim": 768
+    },
+    "trap": {
+      "metadata": {
+        "prob": 0.7574189901351929
+      },
+      "embedding_dim": 768
+    },
+    "dance": {
+      "metadata": {
+        "prob": 0.7309762239456177
+      },
+      "embedding_dim": 768
+    },
+    "foundry": {
+      "metadata": {
+        "prob": 0.8591575622558594
+      },
+      "embedding_dim": 768
+    },
+    "frames": {
+      "metadata": {
+        "prob": 0.8591575622558594
+      },
+      "embedding_dim": 768
+    },
+    "air": {
+      "metadata": {
+        "prob": 0.7301428914070129
+      },
+      "embedding_dim": 768
+    },
+    "smell": {
+      "metadata": {
+        "prob": 0.7301428914070129
+      },
+      "embedding_dim": 768
+    },
+    "joy": {
+      "metadata": {
+        "prob": 0.9457884430885315
+      },
+      "embedding_dim": 768
+    },
+    "laughing": {
+      "metadata": {
+        "prob": 0.9457884430885315
+      },
+      "embedding_dim": 768
+    },
+    "lines": {
+      "metadata": {
+        "prob": 0.8956295847892761
+      },
+      "embedding_dim": 768
+    },
+    "author": {
+      "metadata": {
+        "prob": 0.8956295847892761
+      },
+      "embedding_dim": 768
+    },
+    "receiver": {
+      "metadata": {
+        "prob": 0.45655494928359985
+      },
+      "embedding_dim": 768
+    },
+    "tone": {
+      "metadata": {
+        "prob": 0.45655494928359985
+      },
+      "embedding_dim": 768
+    },
+    "squad": {
+      "metadata": {
+        "prob": 0.9829983115196228
+      },
+      "embedding_dim": 768
+    },
+    "militants": {
+      "metadata": {
+        "prob": 0.980850338935852
+      },
+      "embedding_dim": 768
+    },
+    "telescope": {
+      "metadata": {
+        "prob": 0.9721208810806274
+      },
+      "embedding_dim": 768
+    },
+    "lenses": {
+      "metadata": {
+        "prob": 0.9721208810806274
+      },
+      "embedding_dim": 768
+    },
+    "pulp": {
+      "metadata": {
+        "prob": 0.9876202940940857
+      },
+      "embedding_dim": 768
+    },
+    "tupperware_tub": {
+      "metadata": {
+        "prob": 0.9876202940940857
+      },
+      "embedding_dim": 768
+    },
+    "Carpenters": {
+      "metadata": {
+        "prob": 0.8161711096763611
+      },
+      "embedding_dim": 768
+    },
+    "wood": {
+      "metadata": {
+        "prob": 0.8161711096763611
+      },
+      "embedding_dim": 768
+    },
+    "samples": {
+      "metadata": {
+        "prob": 0.7198755145072937
+      },
+      "embedding_dim": 768
+    },
+    "milking": {
+      "metadata": {
+        "prob": 0.7198755145072937
+      },
+      "embedding_dim": 768
+    },
+    "blogger": {
+      "metadata": {
+        "prob": 0.9036980867385864
+      },
+      "embedding_dim": 768
+    },
+    "conversation": {
+      "metadata": {
+        "prob": 0.9036980867385864
+      },
+      "embedding_dim": 768
+    },
+    "speech": {
+      "metadata": {
+        "prob": 0.9766563773155212
+      },
+      "embedding_dim": 768
+    },
+    "idea": {
+      "metadata": {
+        "prob": 0.9766563773155212
+      },
+      "embedding_dim": 768
+    },
+    "rice": {
+      "metadata": {
+        "prob": 0.9410519599914551
+      },
+      "embedding_dim": 768
+    },
+    "flour": {
+      "metadata": {
+        "prob": 0.9410519599914551
+      },
+      "embedding_dim": 768
+    },
+    "Asteroid": {
+      "metadata": {
+        "prob": 0.884297788143158
+      },
+      "embedding_dim": 768
+    },
+    "disaster": {
+      "metadata": {
+        "prob": 0.884297788143158
+      },
+      "embedding_dim": 768
+    },
+    "farm": {
+      "metadata": {
+        "prob": 0.5274391770362854
+      },
+      "embedding_dim": 768
+    },
+    "acres": {
+      "metadata": {
+        "prob": 0.5274391770362854
+      },
+      "embedding_dim": 768
+    },
+    "laptop": {
+      "metadata": {
+        "prob": 0.9788834452629089
+      },
+      "embedding_dim": 768
+    },
+    "plastic_bag": {
+      "metadata": {
+        "prob": 0.9788834452629089
+      },
+      "embedding_dim": 768
+    },
+    "tales": {
+      "metadata": {
+        "prob": 0.972380518913269
+      },
+      "embedding_dim": 768
+    },
+    "concerns": {
+      "metadata": {
+        "prob": 0.972380518913269
+      },
+      "embedding_dim": 768
+    },
+    "forebrain": {
+      "metadata": {
+        "prob": 0.5457735061645508
+      },
+      "embedding_dim": 768
+    },
+    "amphibians": {
+      "metadata": {
+        "prob": 0.5457735061645508
+      },
+      "embedding_dim": 768
+    },
+    "home": {
+      "metadata": {
+        "prob": 0.5359732508659363
+      },
+      "embedding_dim": 768
+    },
+    "camera": {
+      "metadata": {
+        "prob": 0.9849730730056763
+      },
+      "embedding_dim": 768
+    },
+    "leaflet_box": {
+      "metadata": {
+        "prob": 0.9849730730056763
+      },
+      "embedding_dim": 768
+    },
+    "organizations": {
+      "metadata": {
+        "prob": 0.7643972039222717
+      },
+      "embedding_dim": 768
+    },
+    "resources": {
+      "metadata": {
+        "prob": 0.7643972039222717
+      },
+      "embedding_dim": 768
+    },
+    "swim_bladder": {
+      "metadata": {
+        "prob": 0.9208659529685974
+      },
+      "embedding_dim": 768
+    },
+    "animals": {
+      "metadata": {
+        "prob": 0.9208659529685974
+      },
+      "embedding_dim": 768
+    },
+    "coffle": {
+      "metadata": {
+        "prob": 0.9718352556228638
+      },
+      "embedding_dim": 768
+    },
+    "asses": {
+      "metadata": {
+        "prob": 0.9718352556228638
+      },
+      "embedding_dim": 768
+    },
+    "coloring": {
+      "metadata": {
+        "prob": 0.8561626672744751
+      },
+      "embedding_dim": 768
+    },
+    "coat_of_arms": {
+      "metadata": {
+        "prob": 0.8561626672744751
+      },
+      "embedding_dim": 768
+    },
+    "coalition": {
+      "metadata": {
+        "prob": 0.879440188407898
+      },
+      "embedding_dim": 768
+    },
+    "interests": {
+      "metadata": {
+        "prob": 0.879440188407898
+      },
+      "embedding_dim": 768
+    },
+    "data": {
+      "metadata": {
+        "prob": 0.8367443680763245
+      },
+      "embedding_dim": 768
+    },
+    "city": {
+      "metadata": {
+        "prob": 0.940869927406311
+      },
+      "embedding_dim": 768
+    },
+    "rock_and_roll": {
+      "metadata": {
+        "prob": 0.940869927406311
+      },
+      "embedding_dim": 768
+    },
+    "Hospitals": {
+      "metadata": {
+        "prob": 0.9423328042030334
+      },
+      "embedding_dim": 768
+    },
+    "apparatus": {
+      "metadata": {
+        "prob": 0.9423328042030334
+      },
+      "embedding_dim": 768
+    },
+    "boots": {
+      "metadata": {
+        "prob": 0.9748491644859314
+      },
+      "embedding_dim": 768
+    },
+    "box": {
+      "metadata": {
+        "prob": 0.9748491644859314
+      },
+      "embedding_dim": 768
+    },
+    "attractions": {
+      "metadata": {
+        "prob": 0.45392584800720215
+      },
+      "embedding_dim": 768
+    },
+    "billboards": {
+      "metadata": {
+        "prob": 0.45392584800720215
+      },
+      "embedding_dim": 768
+    },
+    "guy": {
+      "metadata": {
+        "prob": 0.9157336354255676
+      },
+      "embedding_dim": 768
+    },
+    "fetus": {
+      "metadata": {
+        "prob": 0.9050819277763367
+      },
+      "embedding_dim": 768
+    },
+    "insulin": {
+      "metadata": {
+        "prob": 0.9050819277763367
+      },
+      "embedding_dim": 768
+    },
+    "design": {
+      "metadata": {
+        "prob": 0.8375253081321716
+      },
+      "embedding_dim": 768
+    },
+    "wife": {
+      "metadata": {
+        "prob": 0.8375253081321716
+      },
+      "embedding_dim": 768
+    },
+    "circle": {
+      "metadata": {
+        "prob": 0.9742211103439331
+      },
+      "embedding_dim": 768
+    },
+    "hooligans": {
+      "metadata": {
+        "prob": 0.9742211103439331
+      },
+      "embedding_dim": 768
+    },
+    "litter": {
+      "metadata": {
+        "prob": 0.9823346138000488
+      },
+      "embedding_dim": 768
+    },
+    "rabbits": {
+      "metadata": {
+        "prob": 0.9823346138000488
+      },
+      "embedding_dim": 768
+    },
+    "texts": {
+      "metadata": {
+        "prob": 0.9584023356437683
+      },
+      "embedding_dim": 768
+    },
+    "anecdotes": {
+      "metadata": {
+        "prob": 0.9584023356437683
+      },
+      "embedding_dim": 768
+    },
+    "documents": {
+      "metadata": {
+        "prob": 0.9644362926483154
+      },
+      "embedding_dim": 768
+    },
+    "strategies": {
+      "metadata": {
+        "prob": 0.9644362926483154
+      },
+      "embedding_dim": 768
+    },
+    "punchcutter": {
+      "metadata": {
+        "prob": 0.7356523275375366
+      },
+      "embedding_dim": 768
+    },
+    "imprint": {
+      "metadata": {
+        "prob": 0.7356523275375366
+      },
+      "embedding_dim": 768
+    },
+    "plug": {
+      "metadata": {
+        "prob": 0.9844414591789246
+      },
+      "embedding_dim": 768
+    },
+    "battery_box": {
+      "metadata": {
+        "prob": 0.9844414591789246
+      },
+      "embedding_dim": 768
+    },
+    "visit": {
+      "metadata": {
+        "prob": 0.5200725197792053
+      },
+      "embedding_dim": 768
+    },
+    "strategy": {
+      "metadata": {
+        "prob": 0.5200725197792053
+      },
+      "embedding_dim": 768
+    },
+    "microbes": {
+      "metadata": {
+        "prob": 0.9829555749893188
+      },
+      "embedding_dim": 768
+    },
+    "sickness": {
+      "metadata": {
+        "prob": 0.9829555749893188
+      },
+      "embedding_dim": 768
+    },
+    "implications": {
+      "metadata": {
+        "prob": 0.9060643315315247
+      },
+      "embedding_dim": 768
+    },
+    "document": {
+      "metadata": {
+        "prob": 0.9773733615875244
+      },
+      "embedding_dim": 768
+    },
+    "drugs": {
+      "metadata": {
+        "prob": 0.9773733615875244
+      },
+      "embedding_dim": 768
+    },
+    "bazooka": {
+      "metadata": {
+        "prob": 0.7474167346954346
+      },
+      "embedding_dim": 768
+    },
+    "game": {
+      "metadata": {
+        "prob": 0.7474167346954346
+      },
+      "embedding_dim": 768
+    },
+    "model": {
+      "metadata": {
+        "prob": 0.945040762424469
+      },
+      "embedding_dim": 768
+    },
+    "example": {
+      "metadata": {
+        "prob": 0.945040762424469
+      },
+      "embedding_dim": 768
+    },
+    "Researchers": {
+      "metadata": {
+        "prob": 0.656859815120697
+      },
+      "embedding_dim": 768
+    },
+    "ingredients": {
+      "metadata": {
+        "prob": 0.656859815120697
+      },
+      "embedding_dim": 768
+    },
+    "ale": {
+      "metadata": {
+        "prob": 0.9789546132087708
+      },
+      "embedding_dim": 768
+    },
+    "mug": {
+      "metadata": {
+        "prob": 0.9789546132087708
+      },
+      "embedding_dim": 768
+    },
+    "corps": {
+      "metadata": {
+        "prob": 0.9652446508407593
+      },
+      "embedding_dim": 768
+    },
+    "cadets": {
+      "metadata": {
+        "prob": 0.9652446508407593
+      },
+      "embedding_dim": 768
+    },
+    "name": {
+      "metadata": {
+        "prob": 0.9087561368942261
+      },
+      "embedding_dim": 768
+    },
+    "address": {
+      "metadata": {
+        "prob": 0.9087561368942261
+      },
+      "embedding_dim": 768
+    },
+    "Analysts": {
+      "metadata": {
+        "prob": 0.953070342540741
+      },
+      "embedding_dim": 768
+    },
+    "frequency": {
+      "metadata": {
+        "prob": 0.953070342540741
+      },
+      "embedding_dim": 768
+    },
+    "countries": {
+      "metadata": {
+        "prob": 0.9755749702453613
+      },
+      "embedding_dim": 768
+    },
+    "keeper": {
+      "metadata": {
+        "prob": 0.8223869204521179
+      },
+      "embedding_dim": 768
+    },
+    "team": {
+      "metadata": {
+        "prob": 0.8223869204521179
+      },
+      "embedding_dim": 768
+    },
+    "high-wheelers": {
+      "metadata": {
+        "prob": 0.9651102423667908
+      },
+      "embedding_dim": 768
+    },
+    "push-bike": {
+      "metadata": {
+        "prob": 0.9651102423667908
+      },
+      "embedding_dim": 768
+    },
+    "pollution": {
+      "metadata": {
+        "prob": 0.9683489203453064
+      },
+      "embedding_dim": 768
+    },
+    "cars": {
+      "metadata": {
+        "prob": 0.9683489203453064
+      },
+      "embedding_dim": 768
+    },
+    "posts": {
+      "metadata": {
+        "prob": 0.8678558468818665
+      },
+      "embedding_dim": 768
+    },
+    "writer": {
+      "metadata": {
+        "prob": 0.8678558468818665
+      },
+      "embedding_dim": 768
+    },
+    "Molten_core": {
+      "metadata": {
+        "prob": 0.9883543252944946
+      },
+      "embedding_dim": 768
+    },
+    "river": {
+      "metadata": {
+        "prob": 0.9883543252944946
+      },
+      "embedding_dim": 768
+    },
+    "lithics": {
+      "metadata": {
+        "prob": 0.9302477836608887
+      },
+      "embedding_dim": 768
+    },
+    "mountain_ranges": {
+      "metadata": {
+        "prob": 0.9302477836608887
+      },
+      "embedding_dim": 768
+    },
+    "analyzer": {
+      "metadata": {
+        "prob": 0.478590190410614
+      },
+      "embedding_dim": 768
+    },
+    "narrative": {
+      "metadata": {
+        "prob": 0.9641544222831726
+      },
+      "embedding_dim": 768
+    },
+    "history": {
+      "metadata": {
+        "prob": 0.9641544222831726
+      },
+      "embedding_dim": 768
+    },
+    "attributes": {
+      "metadata": {
+        "prob": 0.944756269454956
+      },
+      "embedding_dim": 768
+    },
+    "pollen": {
+      "metadata": {
+        "prob": 0.8670367002487183
+      },
+      "embedding_dim": 768
+    },
+    "basket": {
+      "metadata": {
+        "prob": 0.8648302555084229
+      },
+      "embedding_dim": 768
+    },
+    "nurse": {
+      "metadata": {
+        "prob": 0.9309859275817871
+      },
+      "embedding_dim": 768
+    },
+    "arm": {
+      "metadata": {
+        "prob": 0.9309859275817871
+      },
+      "embedding_dim": 768
+    },
+    "person": {
+      "metadata": {
+        "prob": 0.9479472637176514
+      },
+      "embedding_dim": 768
+    },
+    "content": {
+      "metadata": {
+        "prob": 0.9479472637176514
+      },
+      "embedding_dim": 768
+    },
+    "mushroom": {
+      "metadata": {
+        "prob": 0.7434155344963074
+      },
+      "embedding_dim": 768
+    },
+    "mass": {
+      "metadata": {
+        "prob": 0.7434155344963074
+      },
+      "embedding_dim": 768
+    },
+    "beaters": {
+      "metadata": {
+        "prob": 0.9829983115196228
+      },
+      "embedding_dim": 768
+    },
+    "potatoes": {
+      "metadata": {
+        "prob": 0.8648302555084229
+      },
+      "embedding_dim": 768
+    },
+    "breast": {
+      "metadata": {
+        "prob": 0.4569816291332245
+      },
+      "embedding_dim": 768
+    },
+    "Rain": {
+      "metadata": {
+        "prob": 0.984439492225647
+      },
+      "embedding_dim": 768
+    },
+    "cancellation": {
+      "metadata": {
+        "prob": 0.984439492225647
+      },
+      "embedding_dim": 768
+    },
+    "society": {
+      "metadata": {
+        "prob": 0.5133348703384399
+      },
+      "embedding_dim": 768
+    },
+    "trends": {
+      "metadata": {
+        "prob": 0.5133348703384399
+      },
+      "embedding_dim": 768
+    },
+    "roundtables": {
+      "metadata": {
+        "prob": 0.4648860692977905
+      },
+      "embedding_dim": 768
+    },
+    "keywords": {
+      "metadata": {
+        "prob": 0.4648860692977905
+      },
+      "embedding_dim": 768
+    },
+    "website": {
+      "metadata": {
+        "prob": 0.6502208709716797
+      },
+      "embedding_dim": 768
+    },
+    "articles": {
+      "metadata": {
+        "prob": 0.6502208709716797
+      },
+      "embedding_dim": 768
+    },
+    "theory": {
+      "metadata": {
+        "prob": 0.8932136297225952
+      },
+      "embedding_dim": 768
+    },
+    "science_fiction": {
+      "metadata": {
+        "prob": 0.8932136297225952
+      },
+      "embedding_dim": 768
+    },
+    "clustering": {
+      "metadata": {
+        "prob": 0.9617864489555359
+      },
+      "embedding_dim": 768
+    },
+    "clusters": {
+      "metadata": {
+        "prob": 0.9617864489555359
+      },
+      "embedding_dim": 768
+    },
+    "cherry": {
+      "metadata": {
+        "prob": 0.9501366019248962
+      },
+      "embedding_dim": 768
+    },
+    "contest": {
+      "metadata": {
+        "prob": 0.8956152200698853
+      },
+      "embedding_dim": 768
+    },
+    "dollars": {
+      "metadata": {
+        "prob": 0.9784613251686096
+      },
+      "embedding_dim": 768
+    },
+    "trusts": {
+      "metadata": {
+        "prob": 0.9784613251686096
+      },
+      "embedding_dim": 768
+    },
+    "floppies": {
+      "metadata": {
+        "prob": 0.7575470209121704
+      },
+      "embedding_dim": 768
+    },
+    "factory": {
+      "metadata": {
+        "prob": 0.7575470209121704
+      },
+      "embedding_dim": 768
+    }
+  },
+  "counts": {
+    "facts": 370,
+    "rules": 19,
+    "edges": 185,
+    "nodes": 343
+  },
+  "inference_trace": [
+    "round 1: (Symbol('related_to'), Symbol('response'), Symbol('ripple'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('murders'), Symbol('conviction'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('vibrations'), Symbol('movement'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('viruses'), Symbol('infections'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('fatigue'), Symbol('pain'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('microbes'), Symbol('sickness'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('clustering'), Symbol('clusters'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('subject'), Symbol('implication'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Rain'), Symbol('cancellation'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('slide'), Symbol('crew'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('diseases'), Symbol('gene_mutations'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('spills'), Symbol('hurricane'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('blisters'), Symbol('herpes_simplex_virus'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Roundworms'), Symbol('parasite'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('pollution'), Symbol('cars'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('joy'), Symbol('laughing'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('influenza'), Symbol('virus'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Cause-Effect(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('bar'), Symbol('seats'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('room'), Symbol('house'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('plug'), Symbol('battery_box'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('forebrain'), Symbol('amphibians'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('swim_bladder'), Symbol('animals'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('ear'), Symbol('elephant'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('back'), Symbol('chair'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('drawer'), Symbol('coffeemaker'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('steps'), Symbol('stairs'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('luff'), Symbol('sail'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('claw'), Symbol('hammer'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('cat'), Symbol('paw'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('tree'), Symbol('crown'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('circuit'), Symbol('converter'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('statue'), Symbol('head'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('telescope'), Symbol('lenses'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('website'), Symbol('articles'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('door'), Symbol('lock'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Component-Whole(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('pollen'), Symbol('basket'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('bomb'), Symbol('suitcase'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('coins'), Symbol('plastic_case'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('camera'), Symbol('leaflet_box'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('cat'), Symbol('trap'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('boots'), Symbol('box'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('laptop'), Symbol('plastic_bag'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('bottle'), Symbol('container'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('room'), Symbol('canvases'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Content-Container(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('potatoes'), Symbol('basket'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('tube'), Symbol('container'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('opinions'), Symbol('blog'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('actress'), Symbol('airport'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('man'), Symbol('countries'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('body'), Symbol('reservoir'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('attributes'), Symbol('children'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('acid'), Symbol('eyes'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('clock'), Symbol('presentations'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('dollars'), Symbol('trusts'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('names'), Symbol('space'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('ale'), Symbol('mug'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('survivors'), Symbol('houses'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('song'), Symbol('contest'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('oil'), Symbol('ocean'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('man'), Symbol('car'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('rebound'), Symbol('net'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Molten_core'), Symbol('river'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('pulp'), Symbol('tupperware_tub'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Destination(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('wine'), Symbol('grapes'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('gift'), Symbol('friend'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('defendant'), Symbol('custody'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('floppies'), Symbol('factory'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('model'), Symbol('example'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('cultures'), Symbol('epochs'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('bazooka'), Symbol('game'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('monkeys'), Symbol('enclosure'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('talent'), Symbol('village'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('inspector'), Symbol('yard'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('data'), Symbol('epochs'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('high-wheelers'), Symbol('push-bike'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('parents'), Symbol('station'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('samples'), Symbol('milking'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('coloring'), Symbol('coat_of_arms'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('lithics'), Symbol('mountain_ranges'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('name'), Symbol('address'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('offenders'), Symbol('officers'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('young'), Symbol('nest'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('cherry'), Symbol('wine'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('sesame'), Symbol('oil'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Red_grape'), Symbol('wine'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('papaya'), Symbol('nectar'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('rice'), Symbol('flour'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Entity-Origin(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('method'), Symbol('combination'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Carpenters'), Symbol('wood'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Hospitals'), Symbol('apparatus'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('master'), Symbol('stick'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('father'), Symbol('bar'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('cartomancers'), Symbol('cards'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('crew'), Symbol('breast'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('analyzer'), Symbol('method'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('nurse'), Symbol('arm'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('station'), Symbol('device'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('guy'), Symbol('car'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('witch'), Symbol('magic'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Analysts'), Symbol('frequency'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Instrument-Agency(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('committee'), Symbol('organisation'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('keeper'), Symbol('team'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('captain'), Symbol('crew'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('president'), Symbol('university'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('mischief'), Symbol('rats'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('circle'), Symbol('hooligans'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('coalition'), Symbol('interests'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('pod'), Symbol('whales'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('gulp'), Symbol('magpies'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('hookup'), Symbol('users'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('corps'), Symbol('cadets'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('zoo'), Symbol('beasts'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('litter'), Symbol('rabbits'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('coffle'), Symbol('asses'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('squad'), Symbol('militants'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('convocation'), Symbol('scholars'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('squad'), Symbol('beaters'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('camp'), Symbol('champions'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Member-Collection(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('book'), Symbol('beauty'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('volume'), Symbol('concepts'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('document'), Symbol('drugs'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('tales'), Symbol('concerns'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('cable_network'), Symbol('science_fiction_TV_shows'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('dramas'), Symbol('real_events'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('outline'), Symbol('spirituality'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('audits'), Symbol('waste'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('speech'), Symbol('idea'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('chapter'), Symbol('importance'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('thesis'), Symbol('clinical_characteristics'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('News_programs'), Symbol('violence'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('article'), Symbol('use'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('films'), Symbol('mental_illness'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('texts'), Symbol('anecdotes'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('studies'), Symbol('adults'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('pieces'), Symbol('stories'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('documents'), Symbol('strategies'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('views'), Symbol('television'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('section'), Symbol('interpretation'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('narrative'), Symbol('history'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('roundtables'), Symbol('keywords'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('thesis'), Symbol('book'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('implications'), Symbol('publication'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('theory'), Symbol('science_fiction'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Message-Topic(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('lines'), Symbol('author'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('kimchi'), Symbol('maker'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('software'), Symbol('company'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('housing'), Symbol('developer'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('transcript'), Symbol('scribe'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('song'), Symbol('musician'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('landscape'), Symbol('company'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('design'), Symbol('wife'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('posts'), Symbol('writer'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('comments'), Symbol('readers'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e1,e2)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('company'), Symbol('chairs'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('company'), Symbol('publication'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Researchers'), Symbol('ingredients'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('plant'), Symbol('vehicles'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('punchcutter'), Symbol('imprint'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('person'), Symbol('content'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('family'), Symbol('features'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('foundry'), Symbol('frames'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('fetus'), Symbol('insulin'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('student'), Symbol('application'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('company'), Symbol('home'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Product-Producer(e2,e1)'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('mushroom'), Symbol('mass'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('society'), Symbol('trends'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('Asteroid'), Symbol('disaster'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('attractions'), Symbol('billboards'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('magazine'), Symbol('sport'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('visit'), Symbol('strategy'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('treaty'), Symbol('rule'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('lie'), Symbol('parents'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('effect'), Symbol('way'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('stories'), Symbol('dance'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('air'), Symbol('smell'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('blogger'), Symbol('conversation'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('farm'), Symbol('acres'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('clubs'), Symbol('ownership'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('receiver'), Symbol('tone'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('children'), Symbol('exile'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('organizations'), Symbol('resources'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('filesharing'), Symbol('internet'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('city'), Symbol('rock_and_roll'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('regulations'), Symbol('force'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))",
+    "round 1: (Symbol('related_to'), Symbol('diamond'), Symbol('colliers'))\n  <- rule Rule(head=(Symbol('related_to'), Variable('X'), Variable('Y')), body=((Symbol('Other'), Variable('X'), Variable('Y')),))"
+  ]
+}

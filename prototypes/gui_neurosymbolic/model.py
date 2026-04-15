@@ -8,21 +8,28 @@ import torch.nn as nn
 from .config import ModelConfig, grid_cells
 
 
+def _gn(num_ch: int, num_groups: int = 8) -> nn.GroupNorm:
+    g = num_groups
+    while g > 1 and num_ch % g != 0:
+        g -= 1
+    return nn.GroupNorm(g, num_ch)
+
+
 class DepthwiseSeparableConv2d(nn.Module):
     def __init__(self, in_ch: int, out_ch: int, stride: int = 1) -> None:
         super().__init__()
         self.dw = nn.Conv2d(in_ch, in_ch, 3, stride, 1, groups=in_ch, bias=False)
-        self.bn1 = nn.BatchNorm2d(in_ch)
+        self.gn1 = _gn(in_ch)
         self.pw = nn.Conv2d(in_ch, out_ch, 1, bias=False)
-        self.bn2 = nn.BatchNorm2d(out_ch)
+        self.gn2 = _gn(out_ch)
         self.act = nn.ReLU(inplace=True)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         x = self.dw(x)
-        x = self.bn1(x)
+        x = self.gn1(x)
         x = self.act(x)
         x = self.pw(x)
-        x = self.bn2(x)
+        x = self.gn2(x)
         x = self.act(x)
         return x
 
@@ -35,7 +42,7 @@ class TinyVisionBackbone(nn.Module):
         c = cfg.vision_width
         self.stem = nn.Sequential(
             nn.Conv2d(3, c // 2, 3, stride=2, padding=1, bias=False),
-            nn.BatchNorm2d(c // 2),
+            _gn(c // 2),
             nn.ReLU(inplace=True),
         )
         self.stage1 = nn.Sequential(

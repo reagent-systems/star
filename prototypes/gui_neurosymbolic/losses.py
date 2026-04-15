@@ -14,9 +14,15 @@ def multi_task_loss(
     logits: Dict[str, torch.Tensor],
     batch: Dict[str, torch.Tensor],
     cfg: ModelConfig,
+    *,
+    thought_weight: float = 0.08,
+    bbox_weight: float = 0.35,
+    action_weight: float = 1.8,
+    actions_only: bool = False,
 ) -> Tuple[torch.Tensor, Dict[str, float]]:
     """
-    Sum of CE losses for thought slots, object type, bbox, action type, click, key.
+    Weighted sum of CE losses. Thought/bbox are down-weighted so action heads get gradient
+    (24-slot thought CE otherwise dominates).
     """
     ce = nn.CrossEntropyLoss()
 
@@ -35,14 +41,17 @@ def multi_task_loss(
     loss_click = ce(logits["click_logits"], batch["click_cell"])
     loss_key = ce(logits["key_logits"], batch["key_id"])
 
-    total = (
-        loss_thought
-        + loss_obj
-        + loss_bbox
-        + loss_at
-        + loss_click
-        + loss_key
-    )
+    if actions_only:
+        total = action_weight * loss_at + action_weight * loss_click
+    else:
+        total = (
+            thought_weight * loss_thought
+            + loss_obj
+            + bbox_weight * loss_bbox
+            + action_weight * loss_at
+            + action_weight * loss_click
+            + loss_key
+        )
     parts: Dict[str, float] = {
         "thought": float(loss_thought.detach()),
         "object": float(loss_obj.detach()),

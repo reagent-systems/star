@@ -26,7 +26,11 @@ from torch import amp
 from torch.utils.data import DataLoader
 
 from prototypes.gui_neurosymbolic.config import ModelConfig
-from prototypes.gui_neurosymbolic.dataset import SyntheticGUIDataset, collate_batch
+from prototypes.gui_neurosymbolic.dataset import (
+    StructuredSyntheticGUIDataset,
+    SyntheticGUIDataset,
+    collate_batch,
+)
 from prototypes.gui_neurosymbolic.losses import multi_task_loss, planner_consistency_loss
 from prototypes.gui_neurosymbolic.model import build_model
 from prototypes.gui_neurosymbolic.symbolic_planner import SymbolicPlanner
@@ -69,7 +73,78 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--consistency-weight", type=float, default=0.0)
     p.add_argument("--early-stop-patience", type=int, default=0, help="0 = disabled")
     p.add_argument("--no-amp", action="store_true", help="Disable mixed precision even on CUDA")
+    p.add_argument(
+        "--data-mode",
+        choices=("structured", "random"),
+        default="structured",
+        help="structured: deterministic labels from index (learnable); random: i.i.d. noise",
+    )
+    p.add_argument("--thought-weight", type=float, default=0.08)
+    p.add_argument("--bbox-weight", type=float, default=0.35)
+    p.add_argument("--action-weight", type=float, default=1.8)
+    p.add_argument(
+        "--eval-on-train",
+        action="store_true",
+        help="Measure eval loss/acc on the training set (overfit sanity; expect high acc when the stack fits).",
+    )
+    p.add_argument(
+        "--toy",
+        action="store_true",
+        help="Smaller heads (8x8 click grid, short thought) so structured data can reach high acc in reasonable time.",
+    )
+    p.add_argument(
+        "--actions-only",
+        action="store_true",
+        help="Optimize only action_type + click_cell CE (sanity / curriculum).",
+    )
+    p.add_argument(
+        "--easy-structured",
+        action="store_true",
+        help="Use smooth cosine-grid images (stronger learnability than full PRNG noise).",
+    )
+    p.add_argument(
+        "--encode-index",
+        action="store_true",
+        help="Embed global index in first pixels + modular targets (learnable sanity path).",
+    )
     return p.parse_args()
+
+
+@torch.no_grad()
+def _eval_accuracy(
+    model: nn.Module,
+    eval_loader: DataLoader,
+    device: torch.device,
+    cfg: ModelConfig,
+) -> Dict[str, float]:
+    """Head-wise accuracy on eval set (structured data should approach 1.0 when fitted)."""
+    model.eval()
+    n_ex = 0
+    sum_at = sum_cl = sum_obj = sum_th_tok = 0
+    tl = cfg.thought_len
+    for raw in eval_loader:
+        batch = dict(raw)
+        batch.pop("task_texts", None)
+        for k in batch:
+            batch[k] = batch[k].to(device)
+        bsz = batch["image"].shape[0]
+        logits = model(batch["image"], batch["task_token_ids"])
+        pred_at = logits["action_type_logits"].argmax(dim=-1)
+        pred_cl = logits["click_logits"].argmax(dim=-1)
+        pred_obj = logits["object_type_logits"].argmax(dim=-1)
+        pred_th = logits["thought_logits"].argmax(dim=-1)
+        sum_at += int((pred_at == batch["action_type"]).sum().item())
+        sum_cl += int((pred_cl == batch["click_cell"]).sum().item())
+        sum_obj += int((pred_obj == batch["object_type"]).sum().item())
+        sum_th_tok += int((pred_th == batch["thought_ids"]).sum().item())
+        n_ex += bsz
+    denom_th = max(1, n_ex * tl)
+    return {
+        "acc_action_type": sum_at / max(1, n_ex),
+        "acc_click_cell": sum_cl / max(1, n_ex),
+        "acc_object_type": sum_obj / max(1, n_ex),
+        "acc_thought_token": sum_th_tok / denom_th,
+    }
 
 
 def train() -> None:
@@ -92,13 +167,44 @@ def train() -> None:
     use_amp = device.type == "cuda" and not args.no_amp
 
     cfg = ModelConfig()
+    if args.toy:
+        cfg.thought_len = 8
+        cfg.thought_vocab_size = 64
+        cfg.grid_h = 8
+        cfg.grid_w = 8
+        cfg.num_object_types = 8
+        cfg.num_action_types = 4
+        cfg.bbox_bins = 8
+        cfg.num_key_ids = 8
     model, n_params = build_model(cfg)
     if n_params > cfg.max_param_budget:
         raise RuntimeError(f"Model has {n_params} params, budget {cfg.max_param_budget}")
     model.to(device)
 
-    train_ds = SyntheticGUIDataset(cfg, args.train_samples, seed=args.seed)
-    eval_ds = SyntheticGUIDataset(cfg, args.eval_samples, seed=args.seed + 1)
+    if args.data_mode == "structured":
+        train_ds = StructuredSyntheticGUIDataset(
+            cfg,
+            args.train_samples,
+            index_start=0,
+            easy=args.easy_structured,
+            encode_index=args.encode_index,
+        )
+        eval_ds = (
+            train_ds
+            if args.eval_on_train
+            else StructuredSyntheticGUIDataset(
+                cfg,
+                args.eval_samples,
+                index_start=args.train_samples,
+                easy=args.easy_structured,
+                encode_index=args.encode_index,
+            )
+        )
+    else:
+        train_ds = SyntheticGUIDataset(cfg, args.train_samples, seed=args.seed)
+        eval_ds = train_ds if args.eval_on_train else SyntheticGUIDataset(
+            cfg, args.eval_samples, seed=args.seed + 1
+        )
     train_loader = DataLoader(
         train_ds,
         batch_size=args.batch_size,
@@ -138,7 +244,15 @@ def train() -> None:
 
             with amp.autocast("cuda", enabled=use_amp):
                 logits = model(batch["image"], batch["task_token_ids"])
-                loss, _parts = multi_task_loss(logits, batch, cfg)
+                loss, _parts = multi_task_loss(
+                    logits,
+                    batch,
+                    cfg,
+                    thought_weight=args.thought_weight,
+                    bbox_weight=args.bbox_weight,
+                    action_weight=args.action_weight,
+                    actions_only=args.actions_only,
+                )
                 if planner is not None and args.consistency_weight > 0:
                     syms = _symbols_from_batch(batch, cfg)
                     cl = planner_consistency_loss(
@@ -180,13 +294,25 @@ def train() -> None:
                 for k in batch:
                     batch[k] = batch[k].to(device)
                 logits = model(batch["image"], batch["task_token_ids"])
-                loss, _ = multi_task_loss(logits, batch, cfg)
+                loss, _ = multi_task_loss(
+                    logits,
+                    batch,
+                    cfg,
+                    thought_weight=args.thought_weight,
+                    bbox_weight=args.bbox_weight,
+                    action_weight=args.action_weight,
+                    actions_only=args.actions_only,
+                )
                 ev_sum += float(loss)
                 ev_n += 1
         avg_eval = ev_sum / max(1, ev_n)
 
+        accs = _eval_accuracy(model, eval_loader, device, cfg)
         print(
-            f"epoch {epoch + 1}/{args.epochs} train_loss={avg_train:.4f} eval_loss={avg_eval:.4f} params={n_params}"
+            f"epoch {epoch + 1}/{args.epochs} train_loss={avg_train:.4f} eval_loss={avg_eval:.4f} "
+            f"params={n_params} | eval "
+            f"acc_at={accs['acc_action_type']:.3f} acc_click={accs['acc_click_cell']:.3f} "
+            f"acc_obj={accs['acc_object_type']:.3f} acc_th_tok={accs['acc_thought_token']:.3f}"
         )
 
         if args.early_stop_patience > 0:

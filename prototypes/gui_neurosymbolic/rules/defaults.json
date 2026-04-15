@@ -1,0 +1,17 @@
+[
+  {
+    "name": "submit_button",
+    "if": { "task_contains": "submit", "object_type_id": [0, 1, 2] },
+    "then": { "action_type": "click", "prefer": "center_of_bbox" }
+  },
+  {
+    "name": "search_then_click_first",
+    "if": { "task_contains": "search", "task_contains_not": "result" },
+    "then": { "action_type": "click", "prefer": "field_then_first_result", "note": "symbolic_hint_only" }
+  },
+  {
+    "name": "escape_dialog",
+    "if": { "task_contains": "cancel", "object_type_id": [3, 4] },
+    "then": { "action_type": "key", "key_name": "escape" }
+  }
+]
